@@ -1,0 +1,31 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "description": "study",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "ax5core": "^1.3.135",
+    "bootstrap-sass": "^3.3.7",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "jquery": "^3.2.0",
+    "node-sass": "^4.5.3"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sungwg1988/Granat.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sungwg1988/Granat/issues"
+  },
+  "homepage": "https://github.com/sungwg1988/Granat#readme"
+}
